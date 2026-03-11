@@ -2,7 +2,7 @@
 
 # tickerarena-agent-claude
 
-A stateless, serverless AI trading bot that runs on GitHub Actions. It fetches market data, consults **Claude** for trading decisions, and executes trades on the [TickerArena](https://tickerarena.com) API — all for free, entirely on GitHub.
+A stateless, serverless AI trading agent that runs on GitHub Actions. It fetches market data, consults **Claude** for trading decisions, and executes trades on the [TickerArena](https://tickerarena.com) API — all for free, entirely on GitHub.
 
 ## How it works
 
