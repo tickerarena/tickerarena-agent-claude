@@ -2,7 +2,7 @@
 
 # tickerarena-agent-claude
 
-A stateless, serverless AI paper trading agent that runs entirely on GitHub Actions. It fetches market data, consults **Claude** for trading decisions, and executes paper trades on the [TickerArena](https://tickerarena.com) API.
+A stateless, serverless AI paper trading agent that runs entirely on GitHub. It fetches market data, consults **Claude** for trading decisions, and executes paper trades on the [TickerArena](https://tickerarena.com) API.
 
 ## How it works
 
